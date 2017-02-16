@@ -1,0 +1,117 @@
+---Day01 Tina
+
+1. ToDo Initial Project Setup with MVVM Layers
+2. Reasearch how to add dynamic Binding to buttons in MVVM
+3. Need to Reasearch on how to setup a solution with multiple projects
+ 
+
+
+--Day01 Olga
+
+1.To Do: Login Screen view -UI Design(Research and implement appropriate layout). 
+2. Need Assistance Teacher- Is it a good idea to not have Close window Button on the Login Screen
+2.To Do: Database table Products and Entity Class
+3. Add Button
+
+
+
+--Day02 Tina
+1.Done: Initial Project Setup with MVVM Layers. 
+2 ToDo: After Teacher Advice We have to make changes to our ERD, and make the Login Project a library and not a project
+3 ToDo: Login Screen Bindings
+
+
+
+--Day02 Olga
+1.Done: Started design of login View, prepared the items for products table, Add Binding to DateTime Label in status Bar for loginView
+2.TODO: Design SellersAppMainWindow
+
+
+--Day03 Tina
+1.Done: Logic for  Login View. Validation and PaswordBox implementation
+2.ToDo: Create table Products and ProductsCategories and populate with data. ToDo: Logic for SellersAppMainWindow.
+Create Model for Products, Products Categories, Orders and OrderDetails and populate them with data.
+
+
+
+
+--Day03 Olga
+1. Done: Design for Login View, dataBibdig for datetime label
+2. ToDo: Create design for SellersAppMainWindow.Xaml
+
+
+--Day04 Tina
+1.Done: Create table Products and ProductsCategories and populate with data. Started Logic for SellersAppMainWindow.
+Create Model for Products, Products Categories. 
+2. Din't do: Model for Orders and OrderDetails. It took a lot of time to find out how to pass objects between two viewmodels
+3.TODO: Finish logic for SellersApp. Prototype the ManagersApp
+
+
+
+--Day05 Olga
+1.Done: design for SellersAppMainWindow.Xaml.
+2.Din't do: Still some design things to finish.
+3.TODO: Arrange the design for Products Catalog View. Work at the functionality for the SellersMainApp
+
+
+
+--WeekEnd Scrum Tina
+1.TODO: Find Bug SellersApp and Finish implementing the products dialog and Orders
+
+
+
+--WeekEnd Scrum Olga
+1.TODo: Design Paiment View and Implementing it with logic. Research print receipts. Research Images
+
+
+
+--Day06 Tina
+1.Implemented products dialog and orders.Implemented partailly the print button. Setup of ManagersApp with switching functionality.
+2.Didn't do. Could not find bug messenger
+3.Implement paiement view and start working with Managers App
+
+
+--Day06 Olga
+1. Implemented triggers for buttons.. Designed The paiement view. Researched images
+2 Started logic paiement view but nott finished
+3. Finish logic paiement view. Start dashboard ManagersApp
+
+
+--Day07 Tina
+1. Implemented paiement view
+2 Still didn;t find the messenfer bud. Need teacher's assistance
+3.TODo: Implement the dashboard in Managers App
+
+--Day07 Olga
+1.Finished login paiement view, started Manage products view
+2 TODO: Finish Manage products view and fix the appearance issue
+
+
+
+--Day08 Tina
+1. Started Dashboard ManagersView. Implemented PDf and Email
+3.TODo: Finish dashboard, validate products view, Implement all buttons and correct bugs on paiement view. Finish print receipt.Create tests
+
+--Day08 Olga
+1.Finished Manage products view and fixed the appearance issue
+2 TODO: Finish the images updates, all the design issues.
+
+
+--Day09 Tina
+1. Finish dashboard,Finished print receipt started validate products view, Implemented all buttons and corrected bugs on paiement view. Created tests
+2 Didn't do: CodedUI tests , validation
+3.TODo: Presentation, Exception Handling
+
+--Day09 Olga
+1.Finished the images updates, all the design issues.
+2 TODO: Presentation
+
+--Day10 Tina
+1. Finished Presentation and exception Handling
+2.TODo: Nothing left to do.... :)
+
+--Day09 Olga
+1.Finished the Presentation
+2.TODo: Nothing left to do.... :)
+
+
